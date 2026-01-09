@@ -6,7 +6,7 @@ The aim is to identify key influencing factors and support early intervention st
 
 ---
 
-## Business / Social Objective
+## Social Objective
 - Analyze behavioral and social data  
 - Identify risk factors influencing addiction  
 - Support data-driven awareness and prevention  
